@@ -22,7 +22,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Erdi\\cPanelMail\\": "src/"
+            "ErdiKoroglu\\cPanelMail\\": "src/"
         }
     }
 }
