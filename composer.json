@@ -1,5 +1,5 @@
 {
-    "name": "naif/php-cpanel-email",
+    "name": "erdikoroglu/laravel-cpanel-email",
     "description": "Manage cPanel Email Addresses",
     "keywords": [
       "cPanel",
