@@ -1,5 +1,4 @@
-# PHP Laravel cPanel
-# Update Laravel 9x. Thanks Naif
+# PHP Laravel 9x cPanel E-Mail Manager
 A php laravel package to manage cPanel email accounts
 
 - Get a list of all email accounts.
