@@ -1,5 +1,5 @@
 <?php
-namespace Naif\CpanelMail\Facades;
+namespace ErdiKoroglu\CpanelMail\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
