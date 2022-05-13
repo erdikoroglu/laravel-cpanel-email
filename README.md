@@ -17,10 +17,10 @@ composer require erdikoroglu/laravel-cpanel-email
 If your Laravel below 5.5 you need to add service provider and alias to config/app.php
 ```
 Under Providers:
-\Erdi\cPanelMail\cPanelServiceProvider::class,
+\ErdiKoroglu\cPanelMail\cPanelServiceProvider::class,
 
 Under aliases:
-'cPanel' => \Erdi\cPanelMail\Facades\cPanelMail::class,
+'cPanel' => \ErdiKoroglu\cPanelMail\Facades\cPanelMail::class,
 ```
 
 Add these to your .env
