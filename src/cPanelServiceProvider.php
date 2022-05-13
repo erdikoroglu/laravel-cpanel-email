@@ -1,6 +1,6 @@
 <?php
 
-namespace Naif\cPanelMail;
+namespace ErdiKoroglu\cPanelMail;
 
 use Illuminate\Support\ServiceProvider;
 

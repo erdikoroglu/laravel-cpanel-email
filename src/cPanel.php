@@ -1,6 +1,6 @@
 <?php
 
-namespace Naif\cPanelMail;
+namespace ErdiKoroglu\cPanelMail;
 include_once('Config.php');
 
 class cPanel
